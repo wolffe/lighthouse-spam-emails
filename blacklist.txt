@@ -1316,6 +1316,7 @@ mvrht.net
 mx0.wwwnew.eu
 my-mail.ch
 my.efxs.ca
+my.id
 my10minutemail.com
 myadult.info
 mycard.net.ua
@@ -2220,3 +2221,4 @@ zweb.in
 zxcv.com
 zxcvbnm.com
 zzz.com
+prestawebexperts.com
