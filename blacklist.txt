@@ -144,7 +144,7 @@
 9ox.net
 @1secmail.com
 @cheatsgenerator.online
-@gmx.com
+gmx.com
 @mail.com
 @minor.joyrideday.com
 a-bc.net
@@ -2242,3 +2242,7 @@ riily.com
 tekisto.com
 corebux.com
 rodhez.com
+legoshi.cloud
+icloud.com
+tesorimoda.com
+ptwlandscaping.net
